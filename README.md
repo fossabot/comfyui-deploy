@@ -94,6 +94,7 @@ Major areas
 # Self Hosting with Vercel
 
 [![Video](https://img.mytsi.org/i/nFOG479.png)](https://www.youtube.com/watch?v=hWvsEY1cS2M)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flimoai%2Fcomfyui-deploy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flimoai%2Fcomfyui-deploy?ref=badge_shield)
 Tutorial Created by [Ross](https://github.com/rossman22590) and [Syn](https://github.com/mortlsyn)
 
 
@@ -140,3 +141,7 @@ SPACES_REGION="nyc3"
 SPACES_CDN_DONT_INCLUDE_BUCKET="false"
 SPACES_CDN_FORCE_PATH_STYLE="true"
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flimoai%2Fcomfyui-deploy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flimoai%2Fcomfyui-deploy?ref=badge_large)
